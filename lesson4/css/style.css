@@ -1,0 +1,76 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background: #3135ce;
+}
+.nav {
+	display: block;
+	width: 100%;
+	color: white;
+	float: none;
+	min-height: 10px;
+}
+
+.nav a{
+	display: block;
+	float: left;
+	text-decoration: none;
+	margin: 10px;
+}
+
+.nav a:visited{
+	color:white ;
+}
+.nav a:visited{
+	color:white ;
+}
+/* параметры основных пунктов меню */				  
+.nav a:hover {
+                 background-color:#bcbdc1; /* цвет фона */
+                }
+ul {
+	list-style:none ;
+}
+.row {
+    clear: both;
+    width: 100%;
+    display: block;
+    float: none;
+    min-height: 1px;
+}
+footer p{
+	display: block;
+	width: 100%;
+	padding: 5px;
+	padding: auto;
+	
+}
+content{
+	padding: 40px 50px;
+	display: block;
+	background:#b1bada;
+	min-height: 100px;
+}
+p{
+	display: block;
+	width: 100%;
+	margin: 10px auto;
+}
+
+h3, h4 {
+	color:#4f0702;
+}
+.cell{
+	display: table-cell;
+	vertical-align: middle;
+}
+time{
+	display: block;
+	width: 100%;
+	background: #c021dc;
+	color: #fff9f9;
+	padding: 10px 0;
+	text-align: center;
+}
